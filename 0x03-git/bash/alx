@@ -1,0 +1,9 @@
+i
+#!/bin/bash
+echo "ALX"
+^C
+
+clear
+i
+:q<return>
+:wq
